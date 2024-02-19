@@ -1,1 +1,1 @@
-#LinkedList Excercises
+#LinkedList Exercises
